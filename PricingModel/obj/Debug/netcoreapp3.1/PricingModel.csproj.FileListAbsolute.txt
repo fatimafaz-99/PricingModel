@@ -1,0 +1,14 @@
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\bin\Debug\netcoreapp3.1\PricingModel.exe
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\bin\Debug\netcoreapp3.1\PricingModel.deps.json
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\bin\Debug\netcoreapp3.1\PricingModel.runtimeconfig.json
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\bin\Debug\netcoreapp3.1\PricingModel.runtimeconfig.dev.json
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\bin\Debug\netcoreapp3.1\PricingModel.dll
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\bin\Debug\netcoreapp3.1\PricingModel.pdb
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\obj\Debug\netcoreapp3.1\PricingModel.csproj.AssemblyReference.cache
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\obj\Debug\netcoreapp3.1\PricingModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\obj\Debug\netcoreapp3.1\PricingModel.AssemblyInfoInputs.cache
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\obj\Debug\netcoreapp3.1\PricingModel.AssemblyInfo.cs
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\obj\Debug\netcoreapp3.1\PricingModel.csproj.CoreCompileInputs.cache
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\obj\Debug\netcoreapp3.1\PricingModel.dll
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\obj\Debug\netcoreapp3.1\PricingModel.pdb
+C:\Users\ffaz\source\repos\PricingModel\PricingModel\obj\Debug\netcoreapp3.1\PricingModel.genruntimeconfig.cache
